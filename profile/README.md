@@ -1,6 +1,6 @@
 # AnonElitists
 
-![Logo](./logo.png)
+![Logo](https://github.com/AnonElitists/.github/raw/main/profile/logo.png)
 
 ---
 
